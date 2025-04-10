@@ -39,13 +39,13 @@ Feel free to open an issue and contribute 🔥
 
 ## 🧑 Author
 
-#### Muhammad Saqibi
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+#### Muhammad Saqib
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Saqib-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/saqibmobeen82)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/SaqibMobeen)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Saqib-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/SaqibMobeen)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
